@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cypress": "^12.4.0",
+    "tesseract.js": "^4.0.2"
+  },
+  "devDependencies": {
+    "odiff-bin": "^2.5.1",
+    "typescript": "^4.9.4"
+  }
+}
